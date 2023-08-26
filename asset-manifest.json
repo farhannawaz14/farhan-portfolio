@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/farhan-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/farhan-portfolio/static/js/main.4e776758.js",
+    "static/media/HeroImage.jpg": "/farhan-portfolio/static/media/HeroImage.cbb4089d02b68ecd5f36.jpg",
+    "index.html": "/farhan-portfolio/index.html",
+    "main.bf538fe7.css.map": "/farhan-portfolio/static/css/main.bf538fe7.css.map",
+    "main.4e776758.js.map": "/farhan-portfolio/static/js/main.4e776758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.4e776758.js"
+  ]
+}
